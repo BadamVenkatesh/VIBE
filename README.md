@@ -3,7 +3,7 @@
 
 ## 📌 Project Description
 
-**VIBE** is a cross-platform AI agent built to provide **emotional support**, real-time interaction, and **mental health companionship** using cutting-edge technologies like **LLMs** and **3D avatars**. It mimics the warmth of a friend, the presence of a listener, and the empathy of a human – through intelligent, secure, and adaptive conversations.
+**VIBE** is a cross-platform AI built to provide **emotional support**, real-time interaction, and **mental health companionship** using cutting-edge technologies like **LLMs** and **3D avatars**. It mimics the warmth of a friend, the presence of a listener, and the empathy of a human – through intelligent, secure, and adaptive conversations.
 
 ---
 
